@@ -2,37 +2,37 @@
   "title": "Gilmore Girls Jeopardy!",
   "categories": [
     {
-      "name": "Stars Hollow",
+      "name": "Lorelai",
       "clues": [
         {
           "value": 200,
-          "question": "What is the name of the town where Lorelai and Rory live?",
-          "answer": "Stars Hollow"
+          "question": "What is the name of Lorelai's Dog?",
+          "answer": "Paul Anka"
         },
         {
           "value": 400,
-          "question": "Who is the town�s busybody and market owner?",
-          "answer": "Taylor Doose"
+          "question": "What does Luke keep in Lorelai's garage?",
+          "answer": "His Boat
         },
         {
           "value": 600,
-          "question": "What annual event has couples dancing for 24 hours?",
-          "answer": "The Dance Marathon"
+          "question": "What does Luke make for Lorelai when she's marrying Max?",
+          "answer": "A chuppah"
         },
         {
           "value": 800,
-          "question": "Who runs the town�s dance studio?",
-          "answer": "Miss Patty"
+          "question": "What does Lorelai discover on her porch, after she and Jason break up?",
+          "answer": "Two Cats"
         },
         {
           "value": 1000,
-          "question": "What�s the name of the town troubadour who sings on the streets?",
-          "answer": "Grant Lee Phillips"
+          "question": "Why does Michel need Lorelai's help while he's babysitting Davey?",
+          "answer": "He has accidentally rolled the baby under the bed"
         }
       ]
     },
     {
-      "name": "Rory�s World",
+      "name": "Rory",
       "clues": [
         {
           "value": 200,
@@ -46,7 +46,7 @@
         },
         {
           "value": 600,
-          "question": "Who is Rory�s first boyfriend?",
+          "question": "Who is Rory's first boyfriend?",
           "answer": "Dean Forester"
         },
         {
@@ -56,68 +56,68 @@
         },
         {
           "value": 1000,
-          "question": "What is Rory�s dream profession?",
-          "answer": "Journalist"
+          "question": "Who does Roty dress up as, when she and Marty plan a Marx Brothers evening?",
+          "answer": "Harpo"
         }
       ]
     },
     {
-      "name": "Lorelai�s Life",
+      "name": "Emily & Richard",
       "clues": [
         {
           "value": 200,
-          "question": "Who is Lorelai�s best friend and business partner?",
-          "answer": "Sookie St. James"
+          "question": "What does Emily seem to replace every week?",
+          "answer": "Her maid"
         },
         {
           "value": 400,
-          "question": "What inn do Lorelai and Sookie eventually own?",
-          "answer": "The Dragonfly Inn"
+          "question": "What are Emily and Richards's bunny derssert treats made from?",
+          "answer": "Marzipan"
         },
         {
           "value": 600,
-          "question": "Who is Lorelai�s ex-fianc� and Rory�s father?",
-          "answer": "Christopher Hayden"
+          "question": "What is the name of the club Emily is a member of",
+          "answer": "Daughters of the American Revolution (DAR)"
         },
         {
           "value": 800,
-          "question": "Who is Lorelai engaged to in Season 5?",
-          "answer": "Luke Danes"
+          "question": "Where do Richard and Floyd make the decision to go back into buinsess together?",
+          "answer": "On the golf course"
         },
         {
           "value": 1000,
-          "question": "What was the name of Lorelai�s dog?",
-          "answer": "Paul Anka"
+          "question": "Who do Emily and Richard call to the house, when they suspect that Rory is going to sleep with Logan?",
+          "answer": "Reverend Boatwright"
         }
       ]
     },
     {
-      "name": "Food & Coffee",
+      "name": "Stars Hollow",
       "clues": [
         {
           "value": 200,
-          "question": "Where do Lorelai and Rory get most of their coffee?",
-          "answer": "Luke�s Diner"
+          "question": "Where does Lane hide all of her CD's",
+          "answer": "Under the floorboard in her bedroom"
         },
         {
           "value": 400,
-          "question": "What food is Sookie famous for making?",
-          "answer": "Her gourmet meals and baked goods"
+          "question": "What does the sign behind the counter at Luke's Dinner say?",
+          "answer": "No cell phones"
         },
         {
           "value": 600,
-          "question": "What�s Lorelai�s favorite beverage?",
-          "answer": "Coffee"
+          "question": "What does Kirk call his cat?",
+          "answer": "Cat Kirk"
         },
         {
           "value": 800,
-          "question": "What food festival is held annually in Stars Hollow?",
-          "answer": "The Firelight Festival"
+          "question": "When was Stars Hollow founded?",
+          "answer": "1779"
         },
         {
           "value": 1000,
-          "question": "What food does Lorelai order for her daughter�s birthday every year?",
-          "answer": "A huge spread of takeout junk food"
+          "question": "What was located at Luke's before it was a dinner?",
+          "answer": "His father's hardware store"
         }
       ]
     },

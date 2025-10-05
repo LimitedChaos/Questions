@@ -4,66 +4,46 @@
             "name": "Jeopardy Round",
             "categories": [
                 {
-                    "name": "World Capitals",
-                    "clues": [
-                        { "value": 200, "question": "This city is the capital of France", "answer": "What is Paris?" },
-                        { "value": 400, "question": "The capital of Japan", "answer": "What is Tokyo?" },
-                        { "value": 600, "question": "This Australian city is the nation's capital", "answer": "What is Canberra?" },
-                        { "value": 800, "question": "The capital of Egypt sits near the Nile Delta", "answer": "What is Cairo?" },
-                        { "value": 1000, "question": "This Andean capital is the highest in the world", "answer": "What is La Paz?" }
-                    ]
+                  "name": "Lorelai",
+                  "clues": [
+                    {"value": 200,"question": "What is the name of Lorelai's Dog?","answer": "Paul Anka"},
+                    {"value": 400,"question": "What does Luke keep in Lorelai's garage?","answer": "His Boat"},
+                    {"value": 600,"question": "What does Luke make for Lorelai when she's marrying Max?","answer": "A chuppah"},
+                    {"value": 800,"question": "What does Lorelai discover on her porch, after she and Jason break up?","answer": "Two Cats"},
+                    {"value": 1000,"question": "Why does Michel need Lorelai's help while he's babysitting Davey?","answer": "He has accidentally rolled the baby under the bed"}
+                  ]
                 },
-                {
-                    "name": "Science",
-                    "clues": [
-                        { "value": 200, "question": "The chemical symbol for gold", "answer": "What is Au?" },
-                        { "value": 400, "question": "The planet closest to the sun", "answer": "What is Mercury?" },
-                        { "value": 600, "question": "The powerhouse of the cell", "answer": "What is the mitochondria?" },
-                        { "value": 800, "question": "Einstein's famous equation relates mass and this", "answer": "What is energy?" },
-                        { "value": 1000, "question": "The study of earthquakes", "answer": "What is seismology?" }
+            {
+              "name": "Rory",
+              "clues": [
+                {"value": 200,"question": "What private school does Rory attend before Yale?","answer": "Chilton"},
+                {"value": 400,"question": "What university does Rory attend?","answer": "Yale"},
+                {"value": 600,"question": "Who is Rory's first boyfriend?","answer": "Dean Forester"},
+                {"value": 800,"question": "What secret society does Rory join at Yale?","answer": "The Life and Death Brigade"},
+                {"value": 1000,"question": "Who does Roty dress up as, when she and Marty plan a Marx Brothers evening?","answer": "Harpo"}
+              ]
+            },
+            {
+              "name": "Emily & Richard",
+              "clues": [
+                {"value": 200"question": "What does Emily seem to replace every week?","answer": "Her maid"},
+                {"value": 400,"question": "What are Emily and Richards's bunny derssert treats made from?","answer": "Marzipan"},
+                {"value": 600,"question": "What is the name of the club Emily is a member of","answer": "Daughters of the American Revolution (DAR)"},
+                {"value": 800,"question": "Where do Richard and Floyd make the decision to go back into buinsess together?","answer": "On the golf course"},
+                {"value": 1000,"question": "Who do Emily and Richard call to the house, when they suspect that Rory is going to sleep with Logan?","answer": "Reverend Boatwright"}
+              ]
+            },
+            {
+              "name": "Stars Hollow",
+              "clues": [
+                {"value": 200,"question": "Where does Lane hide all of her CD's","answer": "Under the floorboard in her bedroom"},
+                {"value": 400,"question": "What does the sign behind the counter at Luke's Dinner say?","answer": "No cell phones"},
+                {"value": 600,"question": "What does Kirk call his cat?","answer": "Cat Kirk"},
+                {"value": 800,"question": "When was Stars Hollow founded?","answer": "1779"},
+                {"value": 1000,"question": "What was located at Luke's before it was a dinner?","answer": "His father's hardware store"}
+              ]
+                        }
                     ]
-                },
-                {
-                    "name": "Literature",
-                    "clues": [
-                        { "value": 200, "question": "Author of 'Romeo and Juliet'", "answer": "Who is William Shakespeare?" },
-                        { "value": 400, "question": "The boy wizard who attended Hogwarts", "answer": "Who is Harry Potter?" },
-                        { "value": 600, "question": "Harper Lee's classic about racial injustice", "answer": "What is 'To Kill a Mockingbird'?" },
-                        { "value": 800, "question": "Dante's epic poem about Hell, Purgatory, and Paradise", "answer": "What is 'The Divine Comedy'?" },
-                        { "value": 1000, "question": "The Russian author of 'War and Peace'", "answer": "Who is Leo Tolstoy?" }
-                    ]
-                },
-                {
-                    "name": "Sports",
-                    "clues": [
-                        { "value": 200, "question": "The number of players on a baseball team", "answer": "What is nine?" },
-                        { "value": 400, "question": "The country that hosted the 2016 Summer Olympics", "answer": "What is Brazil?" },
-                        { "value": 600, "question": "Tiger Woods is famous for this sport", "answer": "What is golf?" },
-                        { "value": 800, "question": "The only sport played on the moon", "answer": "What is golf?" },
-                        { "value": 1000, "question": "The term for three strikes in bowling", "answer": "What is a turkey?" }
-                    ]
-                },
-                {
-                    "name": "History",
-                    "clues": [
-                        { "value": 200, "question": "The year the United States declared independence", "answer": "What is 1776?" },
-                        { "value": 400, "question": "The first person to walk on the moon", "answer": "Who is Neil Armstrong?" },
-                        { "value": 600, "question": "The ancient wonder located in Egypt", "answer": "What are the Pyramids of Giza?" },
-                        { "value": 800, "question": "The ship that brought the Pilgrims to America", "answer": "What is the Mayflower?" },
-                        { "value": 1000, "question": "The Roman emperor during Jesus's crucifixion", "answer": "Who is Tiberius?" }
-                    ]
-                },
-                {
-                    "name": "Pop Culture",
-                    "clues": [
-                        { "value": 200, "question": "The streaming service that created 'Stranger Things'", "answer": "What is Netflix?" },
-                        { "value": 400, "question": "The King of Pop", "answer": "Who is Michael Jackson?" },
-                        { "value": 600, "question": "The highest-grossing film of all time", "answer": "What is Avatar?" },
-                        { "value": 800, "question": "The year the first iPhone was released", "answer": "What is 2007?" },
-                        { "value": 1000, "question": "The artist who painted the Sistine Chapel ceiling", "answer": "Who is Michelangelo?" }
-                    ]
-                }
-            ]
         },
         {
             "name": "Double Jeopardy",

@@ -1,6 +1,8 @@
 {
     "rounds": [
         {
+        "name": "Jeopardy Round",
+            "categories": [
             "name": "Lorelai",
       "clues": [
         {

@@ -1,8 +1,7 @@
 {
     "rounds": [
         {
-            
-      "name": "Lorelai",
+            "name": "Lorelai",
       "clues": [
         {
           "value": 200,
@@ -30,9 +29,10 @@
           "answer": "He has accidentally rolled the baby under the bed"
         }
       ]
-    },
-    {
-      "name": "Rory",
+
+                },
+                {
+                    "name": "Rory",
       "clues": [
         {
           "value": 200,
@@ -60,9 +60,10 @@
           "answer": "Harpo"
         }
       ]
-    },
-    {
-      "name": "Emily & Richard",
+
+                },
+                {
+                    "name": "Emily & Richard",
       "clues": [
         {
           "value": 200,
@@ -90,9 +91,9 @@
           "answer": "Reverend Boatwright"
         }
       ]
-    },
-    {
-      "name": "Stars Hollow",
+                },
+                {
+                    "name": "Stars Hollow",
       "clues": [
         {
           "value": 200,
@@ -120,37 +121,8 @@
           "answer": "His father's hardware store"
         }
       ]
-    },
-    {
-      "name": "Quotes & Pop Culture",
-      "clues": [
-        {
-          "value": 200,
-          "question": "Finish Lorelai s line: 'I can t stop drinking the coffee. I stop drinking the coffee, I stop doing the standing, and the walking, and the '",
-          "answer": " the words putting into sentence doing."
+
         },
-        {
-          "value": 400,
-          "question": "What band does Lane play drums for?",
-          "answer": "Hep Alien"
-        },
-        {
-          "value": 600,
-          "question": "What movie do Lorelai and Rory watch every year on Rory s birthday?",
-          "answer": "Pippi Longstocking"
-        },
-        {
-          "value": 800,
-          "question": "What is Rory s Yale roommate s name?",
-          "answer": "Paris Geller"
-        },
-        {
-          "value": 1000,
-          "question": "What phrase does the Life and Death Brigade shout before stunts?",
-          "answer": "In omnia paratus!"
-        }
-      ]
-    }
         {
             "name": "Double Jeopardy",
             "categories": [

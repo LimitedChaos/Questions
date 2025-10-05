@@ -42,8 +42,8 @@
                 {"value": 800,"question": "When was Stars Hollow founded?","answer": "1779"},
                 {"value": 1000,"question": "What was located at Luke's before it was a dinner?","answer": "His father's hardware store"}
               ]
-                        }
-                    ]
+                }
+            ]
         },
         {
             "name": "Double Jeopardy",

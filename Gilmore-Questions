@@ -1,9 +1,10 @@
 {
     "rounds": [
         {
-        "name": "Jeopardy Round",
+            "name": "Jeopardy Round",
             "categories": [
-            "name": "Lorelai",
+                {
+                          "name": "Lorelai",
       "clues": [
         {
           "value": 200,
@@ -31,10 +32,9 @@
           "answer": "He has accidentally rolled the baby under the bed"
         }
       ]
-
-                },
-                {
-                    "name": "Rory",
+    },
+    {
+      "name": "Rory",
       "clues": [
         {
           "value": 200,
@@ -62,10 +62,9 @@
           "answer": "Harpo"
         }
       ]
-
-                },
-                {
-                    "name": "Emily & Richard",
+    },
+    {
+      "name": "Emily & Richard",
       "clues": [
         {
           "value": 200,
@@ -93,9 +92,9 @@
           "answer": "Reverend Boatwright"
         }
       ]
-                },
-                {
-                    "name": "Stars Hollow",
+    },
+    {
+      "name": "Stars Hollow",
       "clues": [
         {
           "value": 200,
@@ -123,7 +122,8 @@
           "answer": "His father's hardware store"
         }
       ]
-
+                }
+            ]
         },
         {
             "name": "Double Jeopardy",

@@ -4,14 +4,14 @@
             "name": "Jeopardy Round",
             "categories": [
                 {
-                  "name": "Lorelai",
-                  "clues": [
-                    {"value": 200,"question": "What is the name of Lorelai's Dog?","answer": "Paul Anka"},
-                    {"value": 400,"question": "What does Luke keep in Lorelai's garage?","answer": "His Boat"},
-                    {"value": 600,"question": "What does Luke make for Lorelai when she's marrying Max?","answer": "A chuppah"},
-                    {"value": 800,"question": "What does Lorelai discover on her porch, after she and Jason break up?","answer": "Two Cats"},
-                    {"value": 1000,"question": "Why does Michel need Lorelai's help while he's babysitting Davey?","answer": "He has accidentally rolled the baby under the bed"}
-                  ]
+                    "name": "World Capitals",
+                    "clues": [
+                        { "value": 200, "question": "This city is the capital of France", "answer": "What is Paris?" },
+                        { "value": 400, "question": "The capital of Japan", "answer": "What is Tokyo?" },
+                        { "value": 600, "question": "This Australian city is the nation's capital", "answer": "What is Canberra?" },
+                        { "value": 800, "question": "The capital of Egypt sits near the Nile Delta", "answer": "What is Cairo?" },
+                        { "value": 1000, "question": "This Andean capital is the highest in the world", "answer": "What is La Paz?" }
+                    ]
                 },
                 {
                     "name": "Science",

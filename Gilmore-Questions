@@ -1,139 +1,369 @@
 {
-    "rounds": [
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
         {
-            "name": "Jeopardy Round",
-            "categories": [
-                {
-                    "name": "World Capitals",
-                    "clues": [
-                        { "value": 200, "question": "This city is the capital of France", "answer": "What is Paris?" },
-                        { "value": 400, "question": "The capital of Japan", "answer": "What is Tokyo?" },
-                        { "value": 600, "question": "This Australian city is the nation's capital", "answer": "What is Canberra?" },
-                        { "value": 800, "question": "The capital of Egypt sits near the Nile Delta", "answer": "What is Cairo?" },
-                        { "value": 1000, "question": "This Andean capital is the highest in the world", "answer": "What is La Paz?" }
-                    ]
-                },
-                {
-                    "name": "Science",
-                    "clues": [
-                        { "value": 200, "question": "The chemical symbol for gold", "answer": "What is Au?" },
-                        { "value": 400, "question": "The planet closest to the sun", "answer": "What is Mercury?" },
-                        { "value": 600, "question": "The powerhouse of the cell", "answer": "What is the mitochondria?" },
-                        { "value": 800, "question": "Einstein's famous equation relates mass and this", "answer": "What is energy?" },
-                        { "value": 1000, "question": "The study of earthquakes", "answer": "What is seismology?" }
-                    ]
-                },
-                {
-                    "name": "Literature",
-                    "clues": [
-                        { "value": 200, "question": "Author of 'Romeo and Juliet'", "answer": "Who is William Shakespeare?" },
-                        { "value": 400, "question": "The boy wizard who attended Hogwarts", "answer": "Who is Harry Potter?" },
-                        { "value": 600, "question": "Harper Lee's classic about racial injustice", "answer": "What is 'To Kill a Mockingbird'?" },
-                        { "value": 800, "question": "Dante's epic poem about Hell, Purgatory, and Paradise", "answer": "What is 'The Divine Comedy'?" },
-                        { "value": 1000, "question": "The Russian author of 'War and Peace'", "answer": "Who is Leo Tolstoy?" }
-                    ]
-                },
-                {
-                    "name": "Sports",
-                    "clues": [
-                        { "value": 200, "question": "The number of players on a baseball team", "answer": "What is nine?" },
-                        { "value": 400, "question": "The country that hosted the 2016 Summer Olympics", "answer": "What is Brazil?" },
-                        { "value": 600, "question": "Tiger Woods is famous for this sport", "answer": "What is golf?" },
-                        { "value": 800, "question": "The only sport played on the moon", "answer": "What is golf?" },
-                        { "value": 1000, "question": "The term for three strikes in bowling", "answer": "What is a turkey?" }
-                    ]
-                },
-                {
-                    "name": "History",
-                    "clues": [
-                        { "value": 200, "question": "The year the United States declared independence", "answer": "What is 1776?" },
-                        { "value": 400, "question": "The first person to walk on the moon", "answer": "Who is Neil Armstrong?" },
-                        { "value": 600, "question": "The ancient wonder located in Egypt", "answer": "What are the Pyramids of Giza?" },
-                        { "value": 800, "question": "The ship that brought the Pilgrims to America", "answer": "What is the Mayflower?" },
-                        { "value": 1000, "question": "The Roman emperor during Jesus's crucifixion", "answer": "Who is Tiberius?" }
-                    ]
-                },
-                {
-                    "name": "Pop Culture",
-                    "clues": [
-                        { "value": 200, "question": "The streaming service that created 'Stranger Things'", "answer": "What is Netflix?" },
-                        { "value": 400, "question": "The King of Pop", "answer": "Who is Michael Jackson?" },
-                        { "value": 600, "question": "The highest-grossing film of all time", "answer": "What is Avatar?" },
-                        { "value": 800, "question": "The year the first iPhone was released", "answer": "What is 2007?" },
-                        { "value": 1000, "question": "The artist who painted the Sistine Chapel ceiling", "answer": "Who is Michelangelo?" }
-                    ]
-                }
-            ]
+          "title": "test",
+          "clues": [
+            {
+              "value": 100,
+              "q": "What planet is known as the Red Planet?",
+              "a": "Mars",
+              "used": false
+            },
+            {
+              "value": 200,
+              "q": "What gas do plants absorb?",
+              "a": "Carbon dioxide",
+              "used": false
+            },
+            {
+              "value": 300,
+              "q": "What is the chemical symbol for gold?",
+              "a": "Au",
+              "used": false
+            },
+            {
+              "value": 400,
+              "q": "What force keeps us on the ground?",
+              "a": "Gravity",
+              "used": false
+            },
+            {
+              "value": 500,
+              "q": "What particle has a negative charge?",
+              "a": "Electron",
+              "used": false
+            }
+          ]
         },
         {
-            "name": "Double Jeopardy",
-            "categories": [
-                {
-                    "name": "U.S. Presidents",
-                    "clues": [
-                        { "value": 400, "question": "The first U.S. President", "answer": "Who is George Washington?" },
-                        { "value": 800, "question": "This president issued the Emancipation Proclamation", "answer": "Who is Abraham Lincoln?" },
-                        { "value": 1200, "question": "The only president to serve more than two terms", "answer": "Who is Franklin D. Roosevelt?" },
-                        { "value": 1600, "question": "This president was never elected as president or VP", "answer": "Who is Gerald Ford?" },
-                        { "value": 2000, "question": "The youngest elected president at age 43", "answer": "Who is John F. Kennedy?" }
-                    ]
-                },
-                {
-                    "name": "Mathematics",
-                    "clues": [
-                        { "value": 400, "question": "The value of pi to two decimal places", "answer": "What is 3.14?" },
-                        { "value": 800, "question": "The sum of the angles in a triangle", "answer": "What is 180 degrees?" },
-                        { "value": 1200, "question": "The square root of 144", "answer": "What is 12?" },
-                        { "value": 1600, "question": "The mathematician who created the Pythagorean theorem", "answer": "Who is Pythagoras?" },
-                        { "value": 2000, "question": "The name for a polygon with eight sides", "answer": "What is an octagon?" }
-                    ]
-                },
-                {
-                    "name": "Animals",
-                    "clues": [
-                        { "value": 400, "question": "The largest land animal", "answer": "What is the elephant?" },
-                        { "value": 800, "question": "The fastest land animal", "answer": "What is the cheetah?" },
-                        { "value": 1200, "question": "The only mammal capable of true flight", "answer": "What is the bat?" },
-                        { "value": 1600, "question": "The largest species of bear", "answer": "What is the polar bear?" },
-                        { "value": 2000, "question": "A group of lions is called this", "answer": "What is a pride?" }
-                    ]
-                },
-                {
-                    "name": "Geography",
-                    "clues": [
-                        { "value": 400, "question": "The largest ocean on Earth", "answer": "What is the Pacific Ocean?" },
-                        { "value": 800, "question": "The longest river in the world", "answer": "What is the Nile?" },
-                        { "value": 1200, "question": "The highest mountain in the world", "answer": "What is Mount Everest?" },
-                        { "value": 1600, "question": "The smallest country in the world", "answer": "What is Vatican City?" },
-                        { "value": 2000, "question": "The number of time zones in Russia", "answer": "What is 11?" }
-                    ]
-                },
-                {
-                    "name": "Music",
-                    "clues": [
-                        { "value": 400, "question": "The number of strings on a standard guitar", "answer": "What is six?" },
-                        { "value": 800, "question": "The Beatles were from this English city", "answer": "What is Liverpool?" },
-                        { "value": 1200, "question": "The composer of the Four Seasons", "answer": "Who is Antonio Vivaldi?" },
-                        { "value": 1600, "question": "The musical term for 'loud'", "answer": "What is forte?" },
-                        { "value": 2000, "question": "Elvis Presley's home in Memphis", "answer": "What is Graceland?" }
-                    ]
-                },
-                {
-                    "name": "Food & Drink",
-                    "clues": [
-                        { "value": 400, "question": "The main ingredient in guacamole", "answer": "What is avocado?" },
-                        { "value": 800, "question": "The country that invented pizza", "answer": "What is Italy?" },
-                        { "value": 1200, "question": "The most expensive spice by weight", "answer": "What is saffron?" },
-                        { "value": 1600, "question": "The only food that never spoils", "answer": "What is honey?" },
-                        { "value": 2000, "question": "The plant that tequila is made from", "answer": "What is agave?" }
-                    ]
-                }
-            ]
+          "title": "History",
+          "clues": [
+            {
+              "value": 100,
+              "q": "Who was the first President of the United States?",
+              "a": "George Washington",
+              "used": false
+            },
+            {
+              "value": 200,
+              "q": "The Great Wall is located in which country?",
+              "a": "China",
+              "used": false
+            },
+            {
+              "value": 300,
+              "q": "In which year did World War II end?",
+              "a": "1945",
+              "used": false
+            },
+            {
+              "value": 400,
+              "q": "Who was known as the Maid of Orléans?",
+              "a": "Joan of Arc",
+              "used": false
+            },
+            {
+              "value": 500,
+              "q": "Which empire was ruled by Genghis Khan?",
+              "a": "Mongol Empire",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Literature",
+          "clues": [
+            {
+              "value": 100,
+              "q": "Who wrote \"Romeo and Juliet\"?",
+              "a": "William Shakespeare",
+              "used": false
+            },
+            {
+              "value": 200,
+              "q": "Author of \"1984\"?",
+              "a": "George Orwell",
+              "used": false
+            },
+            {
+              "value": 300,
+              "q": "What is the protagonist called in \"Moby Dick\"?",
+              "a": "Ishmael",
+              "used": false
+            },
+            {
+              "value": 400,
+              "q": "Who wrote \"Pride and Prejudice\"?",
+              "a": "Jane Austen",
+              "used": false
+            },
+            {
+              "value": 500,
+              "q": "Author of \"The Odyssey\"?",
+              "a": "Homer",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Geography",
+          "clues": [
+            {
+              "value": 100,
+              "q": "What is the capital of France?",
+              "a": "Paris",
+              "used": false
+            },
+            {
+              "value": 200,
+              "q": "Which continent is Kenya in?",
+              "a": "Africa",
+              "used": false
+            },
+            {
+              "value": 300,
+              "q": "What river runs through London?",
+              "a": "Thames",
+              "used": false
+            },
+            {
+              "value": 400,
+              "q": "Mount Fuji is in which country?",
+              "a": "Japan",
+              "used": false
+            },
+            {
+              "value": 500,
+              "q": "What is the largest desert in the world?",
+              "a": "Sahara (or Antarctic polar desert)",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Sports",
+          "clues": [
+            {
+              "value": 100,
+              "q": "How many players on a soccer team on the field?",
+              "a": "11",
+              "used": false
+            },
+            {
+              "value": 200,
+              "q": "In which sport is the term \"alley-oop\" used?",
+              "a": "Basketball",
+              "used": false
+            },
+            {
+              "value": 300,
+              "q": "The Super Bowl is the championship for which sport?",
+              "a": "American Football",
+              "used": false
+            },
+            {
+              "value": 400,
+              "q": "How many holes are in a standard round of golf?",
+              "a": "18",
+              "used": false
+            },
+            {
+              "value": 500,
+              "q": "Which country hosted the 2016 Summer Olympics?",
+              "a": "Brazil",
+              "used": false
+            }
+          ]
         }
-    ],
-    "finalJeopardy": {
-        "category": "World Leaders",
-        "clue": "This British Prime Minister led the UK through most of World War II and is famous for his 'V for Victory' sign",
-        "answer": "Who is Winston Churchill?"
+      ]
+    },
+    {
+      "name": "Round 2",
+      "categories": [
+        {
+          "title": "Movies",
+          "clues": [
+            {
+              "value": 400,
+              "q": "Who directed \"Jaws\"?",
+              "a": "Steven Spielberg",
+              "used": false
+            },
+            {
+              "value": 800,
+              "q": "\"I am your father\" appears in which franchise?",
+              "a": "Star Wars",
+              "used": false
+            },
+            {
+              "value": 1200,
+              "q": "Which film features the character Forrest Gump?",
+              "a": "Forrest Gump",
+              "used": false
+            },
+            {
+              "value": 1600,
+              "q": "Who played the Joker in 2008 film \"The Dark Knight\"?",
+              "a": "Heath Ledger",
+              "used": false
+            },
+            {
+              "value": 2000,
+              "q": "Which movie won Best Picture in 1994?",
+              "a": "Forrest Gump",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Music",
+          "clues": [
+            {
+              "value": 400,
+              "q": "Who is the \"King of Pop\"?",
+              "a": "Michael Jackson",
+              "used": false
+            },
+            {
+              "value": 800,
+              "q": "Which instrument has 88 keys?",
+              "a": "Piano",
+              "used": false
+            },
+            {
+              "value": 1200,
+              "q": "Which band recorded \"Hey Jude\"?",
+              "a": "The Beatles",
+              "used": false
+            },
+            {
+              "value": 1600,
+              "q": "Which genre is Taylor Swift primarily known for?",
+              "a": "Pop/Country",
+              "used": false
+            },
+            {
+              "value": 2000,
+              "q": "What is the term for 4 beats per measure?",
+              "a": "Common time (4/4)",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Tech",
+          "clues": [
+            {
+              "value": 400,
+              "q": "What does \"HTTP\" stand for?",
+              "a": "HyperText Transfer Protocol",
+              "used": false
+            },
+            {
+              "value": 800,
+              "q": "Who co-founded Microsoft with Paul Allen?",
+              "a": "Bill Gates",
+              "used": false
+            },
+            {
+              "value": 1200,
+              "q": "What is the main language of the web for structure?",
+              "a": "HTML",
+              "used": false
+            },
+            {
+              "value": 1600,
+              "q": "What does \"CPU\" stand for?",
+              "a": "Central Processing Unit",
+              "used": false
+            },
+            {
+              "value": 2000,
+              "q": "Which company makes the iPhone?",
+              "a": "Apple",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Food",
+          "clues": [
+            {
+              "value": 400,
+              "q": "What fruit is used to make guacamole?",
+              "a": "Avocado",
+              "used": false
+            },
+            {
+              "value": 800,
+              "q": "Sushi originates from which country?",
+              "a": "Japan",
+              "used": false
+            },
+            {
+              "value": 1200,
+              "q": "What is the main ingredient in hummus?",
+              "a": "Chickpeas",
+              "used": false
+            },
+            {
+              "value": 1600,
+              "q": "What kind of pastry is used for baklava?",
+              "a": "Phyllo (filo)",
+              "used": false
+            },
+            {
+              "value": 2000,
+              "q": "What spice gives curry its yellow color?",
+              "a": "Turmeric",
+              "used": false
+            }
+          ]
+        },
+        {
+          "title": "Random",
+          "clues": [
+            {
+              "value": 400,
+              "q": "What color do you get by mixing red and white?",
+              "a": "Pink",
+              "used": false
+            },
+            {
+              "value": 800,
+              "q": "How many continents are there?",
+              "a": "7",
+              "used": false
+            },
+            {
+              "value": 1200,
+              "q": "Which month has 28 days (at least)?",
+              "a": "February (but every month has at least 28 days)",
+              "used": false
+            },
+            {
+              "value": 1600,
+              "q": "What is the chemical formula for water?",
+              "a": "H2O",
+              "used": false
+            },
+            {
+              "value": 2000,
+              "q": "What is the largest mammal?",
+              "a": "Blue whale",
+              "used": false
+            }
+          ]
+        }
+      ]
     }
+  ],
+  "finalJeopardy": {
+    "category": "Final",
+    "clue": "This planet is the largest in our solar system.",
+    "answer": "Jupiter"
+  }
 }

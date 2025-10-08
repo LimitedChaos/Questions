@@ -38,33 +38,16 @@
             }
           ]
         },
-        {
-          "title": "History",
-          "clues": [
             {
-              "value": 100,
-              "q": "Who was the first President of the United States?",
-              "a": "George Washington",
-              "used": false
-            },
-            {
-              "value": 200,
-              "q": "The Great Wall is located in which country?",
-              "a": "China",
-              "used": false
-            },
-            {
-              "value": 300,
-              "q": "In which year did World War II end?",
-              "a": "1945",
-              "used": false
-            },
-            {
-              "value": 400,
-              "q": "Who was known as the Maid of Orléans?",
-              "a": "Joan of Arc",
-              "used": false
-            },
+                "title": "Characters",
+                "clues": [
+                  { "value": 100, "q": "Who is Rory's mother?", "a": "Lorelai Gilmore", "used": false },
+                  { "value": 200, "q": "Who is Lorelai's daughter and the show's primary student character?", "a": "Rory Gilmore", "used": false },
+                  { "value": 300, "q": "Who owns Luke's Diner?", "a": "Luke Danes", "used": false },
+                  { "value": 400, "q": "Who is Lorelai's wealthy, often-formal mother?", "a": "Emily Gilmore", "used": false },
+                  { "value": 500, "q": "Who is Lorelai's best friend and a talented chef?", "a": "Sookie St. James", "used": false }
+                ]
+              },
             {
               "value": 500,
               "q": "Which empire was ruled by Genghis Khan?",
@@ -73,76 +56,25 @@
             }
           ]
         },
+        "title": "Relationships",
+                "clues": [
+                  { "value": 100, "q": "Who is Rory's first boyfriend?", "a": "Dean Forester", "used": false },
+                  { "value": 200, "q": "Which character, played by Milo Ventimiglia, becomes Rory's rebellious love interest?", "a": "Jess Mariano", "used": false },
+                  { "value": 300, "q": "Which character is Rory's Yale-era boyfriend from a prominent publishing family?", "a": "Logan Huntzberger", "used": false },
+                  { "value": 400, "q": "Who is Rory's father?", "a": "Christopher Hayden", "used": false },
+                  { "value": 500, "q": "Who is Lorelai's longtime love interest and the diner owner?", "a": "Luke Danes", "used": false }
+                ]
+              },
         {
-          "title": "Literature",
-          "clues": [
-            {
-              "value": 100,
-              "q": "Who wrote \"Romeo and Juliet\"?",
-              "a": "William Shakespeare",
-              "used": false
-            },
-            {
-              "value": 200,
-              "q": "Author of \"1984\"?",
-              "a": "George Orwell",
-              "used": false
-            },
-            {
-              "value": 300,
-              "q": "What is the protagonist called in \"Moby Dick\"?",
-              "a": "Ishmael",
-              "used": false
-            },
-            {
-              "value": 400,
-              "q": "Who wrote \"Pride and Prejudice\"?",
-              "a": "Jane Austen",
-              "used": false
-            },
-            {
-              "value": 500,
-              "q": "Author of \"The Odyssey\"?",
-              "a": "Homer",
-              "used": false
-            }
-          ]
-        },
-        {
-          "title": "Geography",
-          "clues": [
-            {
-              "value": 100,
-              "q": "What is the capital of France?",
-              "a": "Paris",
-              "used": false
-            },
-            {
-              "value": 200,
-              "q": "Which continent is Kenya in?",
-              "a": "Africa",
-              "used": false
-            },
-            {
-              "value": 300,
-              "q": "What river runs through London?",
-              "a": "Thames",
-              "used": false
-            },
-            {
-              "value": 400,
-              "q": "Mount Fuji is in which country?",
-              "a": "Japan",
-              "used": false
-            },
-            {
-              "value": 500,
-              "q": "What is the largest desert in the world?",
-              "a": "Sahara (or Antarctic polar desert)",
-              "used": false
-            }
-          ]
-        },
+                "title": "Town Folks",
+                "clues": [
+                  { "value": 100, "q": "Who is the officious town councilman who organizes many events?", "a": "Taylor Doose", "used": false },
+                  { "value": 200, "q": "Who is the hotel's sarcastic concierge?", "a": "Michel Gerard", "used": false },
+                  { "value": 300, "q": "Who runs the local dance studio and is a longtime friend of the Gilmores?", "a": "Miss Patty", "used": false },
+                  { "value": 400, "q": "Who is the town's cheerful gossip and friend of Miss Patty?", "a": "Babette", "used": false },
+                  { "value": 500, "q": "Which eccentric resident holds dozens of odd jobs throughout Stars Hollow?", "a": "Kirk Gleason", "used": false }
+                ]
+              },
         {
           "title": "Sports",
           "clues": [

@@ -4,36 +4,36 @@
       "name": "Round 1",
       "categories": [
         {
-          "title": "test",
+          "title": "Actors",
           "clues": [
             {
               "value": 100,
-              "q": "What planet is known as the Red Planet?",
-              "a": "Mars",
+              "q": "Who plays Lorelai Gilmore?",
+              "a": "Lauren Graham",
               "used": false
             },
             {
               "value": 200,
-              "q": "What gas do plants absorb?",
-              "a": "Carbon dioxide",
+              "q": "Who plays Rory Gilmore?",
+              "a": "Alexis Bledel",
               "used": false
             },
             {
               "value": 300,
-              "q": "What is the chemical symbol for gold?",
-              "a": "Au",
+              "q": "Who portrays Luke Danes, owner of the diner?",
+              "a": "Scott Patterson",
               "used": false
             },
             {
               "value": 400,
-              "q": "What force keeps us on the ground?",
-              "a": "Gravity",
+              "q": "Who plays Lorelai's mother Emily Gilmore?",
+              "a": "Kelly Bishop",
               "used": false
             },
             {
               "value": 500,
-              "q": "What particle has a negative charge?",
-              "a": "Electron",
+              "q": "Which actress plays Sookie St. James?",
+              "a": "Melissa McCarthy",
               "used": false
             }
           ]
